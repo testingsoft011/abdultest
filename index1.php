@@ -2,5 +2,4 @@
  echo "hi";
  echo "nice";
  echo "good";
- 
 ?>
